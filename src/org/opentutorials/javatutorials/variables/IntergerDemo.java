@@ -14,6 +14,7 @@ public class IntergerDemo {
 		 * a:
 		 * 변수의 이름
 		 */
+		
 		a=1;
 		System.out.println(a+1);
 		
