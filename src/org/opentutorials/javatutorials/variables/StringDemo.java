@@ -12,6 +12,6 @@ public class StringDemo {
 		b = "everybody";
 		System.out.println(a+b);
 //		이러한 방법으로 문자열 연산도 가능하다
-		
+	
 	}
 }
